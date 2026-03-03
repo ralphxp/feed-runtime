@@ -1,0 +1,19 @@
+{
+  "name": "feedjs-runtime",
+  "version": "1.0.0",
+  "description": "FeedJS Runtime - DOM Renderer and jQuery Bridge",
+  "type": "module",
+  "main": "dist/index.js",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "feedjs-core": "1.0.0"
+  }
+}
