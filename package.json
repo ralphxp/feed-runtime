@@ -1,6 +1,6 @@
 {
   "name": "feedjs-runtime",
-  "version": "1.0.0",
+  "version": "1.0.0+alpha.0",
   "description": "FeedJS Runtime - DOM Renderer and jQuery Bridge",
   "type": "module",
   "main": "dist/index.js",
@@ -15,5 +15,13 @@
   "license": "MIT",
   "dependencies": {
     "feedjs-core": "1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:codizium/feed-runtime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codizium/feed-runtime/issues"
+  },
+  "homepage": "https://github.com/codizium/feed-runtime#readme"
 }
