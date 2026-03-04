@@ -7,6 +7,18 @@
   "exports": {
     ".": "./dist/index.js"
   },
+  "authors": [
+    {
+      "name": "Rapha Panchi",
+      "email": "raphapanchi@gmail.com",
+      "url": "https://github.com/ralphxp"
+    },
+    {
+      "name": "Codizium Team",
+      "email": "hell.codizium@gmail.com",
+      "url": "https://github.com/codizium"
+    }
+  ],
   "scripts": {
     "build": "tsc"
   },
@@ -14,7 +26,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "feedjs-core": "1.0.0"
+    "feedjs-core": "1.0.0+alpha.1"
   },
   "repository": {
     "type": "git",
